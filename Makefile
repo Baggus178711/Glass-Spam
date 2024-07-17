@@ -8,7 +8,5 @@ setup:
 	gcc main.c -o main.out
 run:
 	./main.out
-reset:
-	rm main.out
 test:
 	@true
